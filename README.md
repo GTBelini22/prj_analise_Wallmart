@@ -28,7 +28,7 @@
 - Agrupamento de dados
 - Análise de gráficos
 
-![Dashboard BI](https://github.com/GTBelini22/Regressao_linear_BaseSeguros/blob/main/assets/Histplot.png)
+![Dashboard BI](https://github.com/GTBelini22/prj_analise_dados_Wallmart/blob/main/assets/Gr%C3%A1fico%20wallmart.png)
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas
