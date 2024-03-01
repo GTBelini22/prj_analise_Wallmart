@@ -11,8 +11,7 @@
 
 
 # Sobre o repositório
-
-É um repositório usado para armazenar o Desafio de  **Analise de Dados com Python** da formação em dados da escola DNC, com esse desafio sendo a analise de dados usando python para encontrar e responder todas as perguntas de negócio do cliente, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
+Repositório usado para armazenar o Desafio de  **Analise de Dados com Python** da formação em dados da escola DNC, com esse desafio sendo a analise de dados usando python para encontrar e responder todas as perguntas de negócio do cliente, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
 
 # Perguntas importantes a serem respondidas
 
